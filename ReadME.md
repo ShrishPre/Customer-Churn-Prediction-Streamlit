@@ -6,7 +6,8 @@ A complete **end-to-end Machine Learning project** that predicts whether a custo
 
 ## 🚀 Live Demo
 
-👉 *(Add your Streamlit app link here after deployment)*
+👉 Local URL: http://localhost:8501
+  Network URL: http://192.168.29.121:8501
 
 ---
 
