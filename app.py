@@ -6,6 +6,7 @@ import pandas as pd
 st.set_page_config(page_title="Customer Churn Predictor",page_icon="📉", layout="centered")
 
 # Load model
+import pickle
 with open("gb.pkl", "rb") as file:
     data = pickle.load(file)
 
