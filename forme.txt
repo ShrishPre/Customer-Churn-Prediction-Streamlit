@@ -1,4 +1,0 @@
-“I built an end-to-end churn prediction system using Gradient Boosting,
- handled categorical feature consistency using saved feature lists, 
- and deployed it as a Streamlit web app.”
-
