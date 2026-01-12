@@ -113,12 +113,13 @@ python -m streamlit run app.py
 ## 📈 Results
 
 The model successfully predicts customer churn with strong performance on test data. Feature handling ensures reliable predictions even during deployment.
+<img width="983" height="545" alt="image" src="https://github.com/user-attachments/assets/745b1fe5-4717-439c-b31e-a86c99adbae4" />
 
 ---
 
 ## 🔮 Future Improvements
 
-* Add SHAP / feature importance visualization
+* Add  feature importance visualization
 * Try advanced models (XGBoost, LightGBM)
 * Improve UI with charts and metrics
 * Add probability-based risk scoring
@@ -134,5 +135,6 @@ Aspiring Data Scientist | Machine Learning Enthusiast
 🔗 LinkedIn: *(add your LinkedIn link)*
 
 ---
+<img width="1366" height="768" alt="Screenshot (372)" src="https://github.com/user-attachments/assets/32fdede2-b8c3-44ac-894a-796dee9b63a8" />
 
 ⭐ If you like this project, feel free to **star the repository**!
