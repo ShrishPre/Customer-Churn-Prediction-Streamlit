@@ -83,7 +83,7 @@ customer-churn-project/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone <your-repo-link>
+git clone <(https://github.com/ShrishPre/Customer-Churn-Streamlit/tree/main)>
 cd customer-churn-project
 ```
 
@@ -127,7 +127,7 @@ The model successfully predicts customer churn with strong performance on test d
 
 ## 👩‍💻 Author
 
-**Shrishti**
+**Shristi**
 Aspiring Data Scientist | Machine Learning Enthusiast
 
 🔗 GitHub: *(add your profile link)*
