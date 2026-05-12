@@ -11,7 +11,7 @@ A complete **end-to-end Machine Learning project** that predicts whether a custo
 
 ---
 
-## 📌 Problem Statement
+## 📌 Project Statement
 
 Customer churn is a major challenge for subscription-based businesses. The goal of this project is to **predict whether a customer will leave the service (churn)** based on their demographic details, services subscribed, and billing information.
 
@@ -132,7 +132,7 @@ The model successfully predicts customer churn with strong performance on test d
 Aspiring Data Scientist | Machine Learning Enthusiast
 
 🔗 GitHub: *(add your profile link)*
-🔗 LinkedIn: *(add your LinkedIn link)*
+🔗 LinkedIn: www.linkedin.com/in/shristi-jain-13670238a
 
 ---
 <img width="1366" height="768" alt="Screenshot (372)" src="https://github.com/user-attachments/assets/32fdede2-b8c3-44ac-894a-796dee9b63a8" />
