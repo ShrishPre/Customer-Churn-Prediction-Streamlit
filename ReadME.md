@@ -131,7 +131,7 @@ The model successfully predicts customer churn with strong performance on test d
 **Shristi**
 Aspiring Data Scientist | Machine Learning Enthusiast
 
-🔗 GitHub: *(add your profile link)*
+🔗 GitHub: (https://github.com/ShrishPre)
 🔗 LinkedIn: www.linkedin.com/in/shristi-jain-13670238a
 
 ---
